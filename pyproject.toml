@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "simple-chat"
+version = "0.1.0"
+description = "A simple local chat client, based on chainlit and langchain."
+authors = ["Gregor Betz <3662782+ggbetz@users.noreply.github.com>"]
+license = "AGPL"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8.1"
+chainlit = "^1.1.202"
+langchain = "^0.2.3"
+langchain-openai = "^0.1.8"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
