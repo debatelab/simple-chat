@@ -1,4 +1,5 @@
 import os
+
 from langchain_openai import ChatOpenAI
 from langchain.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain.schema import StrOutputParser
