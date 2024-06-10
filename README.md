@@ -1,4 +1,4 @@
-# simple-chat -- A simple, transparent, and extensible web client to chat with your LLM
+# `simple-chat` – A simple, transparent, and extensible web client to chat with your LLM
 
 ### Why? 
 
