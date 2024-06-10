@@ -12,7 +12,6 @@ chainlit = "^1.1.202"
 langchain = "^0.2.3"
 langchain-openai = "^0.1.8"
 
-
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
