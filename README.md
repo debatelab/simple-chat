@@ -40,7 +40,7 @@ There are lots of ever more powerful open LLMs ([HF hub](https://huggingface.co/
 5. Run the app.
 
     ```bash
-    chainlit run src/simple_chat/app.py
+    poetry run chainlit run src/simple_chat/app.py
     ```
 
 ### 🙏 Cudos
