@@ -29,7 +29,7 @@ There are lots of ever more powerful open LLMs ([HF hub](https://huggingface.co/
     BASE_URL="<insert-your-inference-server-url-here>"
     ```
 
-3. [Install poetry](https://python-poetry.org/docs/#installation) (python package manager).
+3. [Install poetry](https://python-poetry.org/docs/#installation) (python package manager) and its [dotenv pluging](https://pypi.org/project/poetry-dotenv/).
 
 4. Install the dependencies.
 
