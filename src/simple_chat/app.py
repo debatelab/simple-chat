@@ -45,7 +45,7 @@ async def on_message(message: cl.Message):
     async for chunk in runnable.astream(
         {
             "question": message.content,
-            "history": cl.user_session.get("history")
+            "history": history
         },
         config=RunnableConfig(callbacks=[cl.LangchainCallbackHandler()]),
     ):
