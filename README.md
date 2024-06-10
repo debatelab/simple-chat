@@ -1,4 +1,10 @@
-# `simple-chat` – A simple, transparent, and extensible web client to chat with your LLM
+<div align="center">
+
+<h1><code>simple-chat</code>
+
+A simple, transparent, and extensible web client to chat with your LLM
+
+</div>
 
 ### Why? 
 
