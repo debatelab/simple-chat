@@ -8,7 +8,7 @@ A simple, transparent, and extensible web client to chat with your LLM
 
 ### 🤔 Why? 
 
-There are lots of ever more powerful open LLMs ([HF hub](https://huggingface.co/models)), wonderful frameworks to build (train or merge) your own models ([trl](https://huggingface.co/docs/trl/en/index), [axolotl](https://github.com/OpenAccess-AI-Collective/axolotl)), as well as reliable and efficient solutions to serve your models ([vllm](https://docs.vllm.ai/en/stable/), [tgi](https://huggingface.co/docs/text-generation-inference/index)). But, or so I find, there are relatively few simple local chat clients that work well with custom (self-hosted) LLMs and allow you to use your models in a straightforward way.
+There are lots of ever more powerful open LLMs ([HF hub](https://huggingface.co/models)), wonderful frameworks to build (train or merge) your own models ([trl](https://huggingface.co/docs/trl/en/index), [axolotl](https://github.com/OpenAccess-AI-Collective/axolotl)), as well as reliable and efficient solutions to serve your models ([vllm](https://docs.vllm.ai/en/stable/), [tgi](https://huggingface.co/docs/text-generation-inference/index)). But, or so I find, there are relatively few simple, local, open-source chat clients that work well with custom (self-hosted) LLMs and allow you to use your models in a straightforward way.
 
 ### 🎉 What?
 
