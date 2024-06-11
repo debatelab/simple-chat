@@ -43,9 +43,13 @@ There are lots of ever more powerful open LLMs ([HF hub](https://huggingface.co/
     poetry run chainlit run src/simple_chat/app.py
     ```
 
-### 🙏 Cudos
 
-Built with
+### 🙏 Built with
 
 * [Chainlit](https://github.com/Chainlit/chainlit)
 * [LangChain](https://github.com/langchain-ai/langchain)
+
+
+### 😎 Also cool
+
+* [Sanctum AI](https://sanctum.ai/chat-with-ai): privacy-focused local chat client
