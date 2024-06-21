@@ -53,3 +53,4 @@ There are lots of ever more powerful open LLMs ([HF hub](https://huggingface.co/
 ### 😎 Also cool
 
 * [Sanctum AI](https://sanctum.ai/chat-with-ai): privacy-focused local chat client
+* [jan.ai](https://jan.ai/): open-source chat client to interact with local and remote LLMs 
