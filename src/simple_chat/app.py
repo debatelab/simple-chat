@@ -11,7 +11,10 @@ import chainlit as cl
 
 @cl.on_chat_start
 async def on_chat_start():
-    base_url = os.environ.get("BASE_URL")+"/v1"
+    base_url = os.environ.get("BASE_URL")
+    if not base_url:
+        raise ValueError("Missing BASE_URL environment variable.")
+    base_url = base_url+"/v1"
     max_tokens = os.environ.get("MAX_TOKENS", 768)
     model = ChatOpenAI(
         base_url=base_url,
